@@ -22,6 +22,6 @@ function checkProbabilityTheory(count) {
     console.log(`Відсоток парних: ${evenPercentage}%`);
     console.log(`Відсоток непарних: ${oddPercentage}%`);
     // співвідношення парних до непарних
-    console.log(`Співвідношення парних до непарних: ${percateagRation}%`);
+    console.log(`Співвідношення парних до непарних: ${percateagRation}`);
 }
 checkProbabilityTheory(1000);
