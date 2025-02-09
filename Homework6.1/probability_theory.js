@@ -13,12 +13,15 @@ function checkProbabilityTheory(count) {
     
     let evenPercentage = (evenCount / count * 100).toFixed(2);
     let oddPercentage = (oddCount / count * 100).toFixed(2);
+    // співвідношення парних до непарних
+    let percateagRation = (evenPercentage / oddPercentage).toFixed(2);
     
     console.log(`Кількість згенерованих чисел: ${count}`);
     console.log(`Парних чисел: ${evenCount}`);
     console.log(`Непарних чисел: ${oddCount}`);
     console.log(`Відсоток парних: ${evenPercentage}%`);
     console.log(`Відсоток непарних: ${oddPercentage}%`);
+    // співвідношення парних до непарних
+    console.log(`Співвідношення парних до непарних: ${percateagRation}%`);
 }
-
 checkProbabilityTheory(1000);
