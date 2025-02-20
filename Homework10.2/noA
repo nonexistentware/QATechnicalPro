@@ -1,0 +1,5 @@
+const text = "Can I use these random sentences for the current task?";
+const pattern = /\b[^aA\s]{6,}\b/g;
+const matches = text.match(pattern);
+console.log(matches);
+
