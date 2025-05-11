@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "680a73cea455ca61bc242976"
+  },
+  "email": "user1@example.com",
+  "password": "hashedPassword123",
+  "created": {
+    "$date": "2025-04-21T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-21T14:00:00.000Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "680a78465a13c1588e4416fe"
+  },
+  "email": "pivko87@gmail.com",
+  "password": "Password123",
+  "created": {
+    "$date": "2025-04-21T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-21T14:00:00.000Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "680a78465a13c1588e4416ff"
+  },
+  "email": "bot@example.com",
+  "password": "passwordP!P!",
+  "created": {
+    "$date": "2025-04-21T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-21T14:00:00.000Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "680a78465a13c1588e441700"
+  },
+  "email": "qwerty@gmail.com",
+  "password": "Qwerty1234",
+  "created": {
+    "$date": "2025-04-21T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-21T14:00:00.000Z"
+  },
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "680a78465a13c1588e441701"
+  },
+  "email": "lamer11100@example.com",
+  "password": "databas01010",
+  "created": {
+    "$date": "2025-04-21T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-21T14:00:00.000Z"
+  },
+  "role": "user"
+}]

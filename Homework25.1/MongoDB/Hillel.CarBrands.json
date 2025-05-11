@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "680a79445a13c1588e44170c"
+  },
+  "title": "Toyota",
+  "logoFilename": "toyota.png",
+  "createdAt": "2024-12-01T10:00:00Z",
+  "updatedAt": "2025-04-20T12:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "680a79445a13c1588e44170d"
+  },
+  "title": "BMW",
+  "logoFilename": "bmw.png",
+  "createdAt": "2025-01-15T09:30:00Z",
+  "updatedAt": "2025-04-18T11:15:00Z"
+},
+{
+  "_id": {
+    "$oid": "680a79445a13c1588e44170e"
+  },
+  "title": "Mercedes-Benz",
+  "logoFilename": "mercedes.png",
+  "createdAt": "2025-02-10T08:45:00Z",
+  "updatedAt": "2025-04-17T14:25:00Z"
+},
+{
+  "_id": {
+    "$oid": "680a79445a13c1588e44170f"
+  },
+  "title": "Honda",
+  "logoFilename": "honda.png",
+  "createdAt": "2025-03-05T13:20:00Z",
+  "updatedAt": "2025-04-19T15:10:00Z"
+},
+{
+  "_id": {
+    "$oid": "680a79445a13c1588e441710"
+  },
+  "title": "Tesla",
+  "logoFilename": "tesla.png",
+  "createdAt": "2025-03-20T11:00:00Z",
+  "updatedAt": "2025-04-20T13:00:00Z"
+}]

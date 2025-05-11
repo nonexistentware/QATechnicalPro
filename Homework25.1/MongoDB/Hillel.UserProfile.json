@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "680a7ec35a13c1588e441738"
+  },
+  "userId": {
+    "$oid": "680a73cea455ca61bc242976"
+  },
+  "photoFilename": "user1.jpg",
+  "name": "Oleh",
+  "lastName": "Shevchenko",
+  "dateBirth": {
+    "$date": "1995-06-15T00:00:00.000Z"
+  },
+  "country": "Ukraine",
+  "createdAt": {
+    "$date": "2024-12-10T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680a7ec35a13c1588e441739"
+  },
+  "userId": {
+    "$oid": "680a78465a13c1588e4416fe"
+  },
+  "photoFilename": "user2.jpg",
+  "name": "Anna",
+  "lastName": "Kovalenko",
+  "dateBirth": {
+    "$date": "1992-09-22T00:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-01-05T11:30:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-01T13:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680a7ec35a13c1588e44173a"
+  },
+  "userId": {
+    "$oid": "680a78465a13c1588e4416ff"
+  },
+  "photoFilename": "user3.png",
+  "name": "Ivan",
+  "lastName": "Melnyk",
+  "dateBirth": {
+    "$date": "1988-03-12T00:00:00.000Z"
+  },
+  "country": "Poland",
+  "createdAt": {
+    "$date": "2025-02-14T09:45:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T15:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680a7ec35a13c1588e44173b"
+  },
+  "userId": {
+    "$oid": "680a78465a13c1588e441700"
+  },
+  "photoFilename": "user4.jpg",
+  "name": "Julia",
+  "lastName": "Petryk",
+  "dateBirth": {
+    "$date": "1990-12-05T00:00:00.000Z"
+  },
+  "country": "Germany",
+  "createdAt": {
+    "$date": "2025-03-01T08:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-15T10:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680a7ec35a13c1588e44173c"
+  },
+  "userId": {
+    "$oid": "680a78465a13c1588e441701"
+  },
+  "photoFilename": "user5.jpg",
+  "name": "Dmytro",
+  "lastName": "Koval",
+  "dateBirth": {
+    "$date": "1997-08-30T00:00:00.000Z"
+  },
+  "country": "Czech Republic",
+  "createdAt": {
+    "$date": "2025-04-01T14:20:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-21T09:10:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681ded4fa4127911389a73ca"
+  },
+  "id": {
+    "$oid": "681ded56a4127911389a73cb"
+  },
+  "userId": {
+    "$oid": "681ded58a4127911389a73cc"
+  },
+  "photoFilename": "user6.png",
+  "name": "Andrii",
+  "lastName": "Rodqwenko",
+  "dateBirth": {
+    "$date": "1980-12-12T00:00:00.000Z"
+  },
+  "country": "Balkan",
+  "createdAt": {
+    "$date": "2025-02-14T09:45:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T15:20:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68209f77ee624ee89d829cab"
+  },
+  "photoFilename": "user1.jpg",
+  "name": "Oleh",
+  "lastName": "Shevchenko",
+  "dateBirth": "1995-06-15T00:00:00.000Z",
+  "country": "Ukraine",
+  "createdAt": {
+    "$date": "2025-05-11T13:00:39.809Z"
+  },
+  "updatedAt": "2025-04-20T12:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "68209f80ee624ee89d829cac"
+  },
+  "photoFilename": "user1.jpg",
+  "name": "Oleh",
+  "lastName": "Shevchenko",
+  "dateBirth": "1995-06-15T00:00:00.000Z",
+  "country": "Ukraine",
+  "createdAt": {
+    "$date": "2025-05-11T13:00:48.678Z"
+  },
+  "updatedAt": "2025-04-20T12:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "68209fe0ee624ee89d829cad"
+  },
+  "photoFilename": "user1.jpg",
+  "name": "Oleh",
+  "lastName": "Shevchenko",
+  "dateBirth": "1995-06-15T00:00:00.000Z",
+  "country": "Ukraine",
+  "createdAt": {
+    "$date": "2025-05-11T13:02:24.584Z"
+  },
+  "updatedAt": "2025-04-20T12:00:00.000Z"
+}]

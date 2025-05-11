@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "680a79445a13c1588e44170c"
+  },
+  "carBrandId": {
+    "$oid": "680fe5728d6cab30b92e660e"
+  },
+  "carModelId": {
+    "$oid": "680fe5758d6cab30b92e660f"
+  },
+  "userId": "\"680a73cea455ca61bc242976\"",
+  "mileage": 52300,
+  "initialMileage": 12000,
+  "updatedMileageAt": {
+    "$date": "2025-04-20T15:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2024-12-15T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T15:45:00.000Z"
+  },
+  "carCreatedAt": {
+    "$date": "2020-07-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680a79445a13c1588e44170d"
+  },
+  "carBrandId": {
+    "$oid": "680fe5978d6cab30b92e6610"
+  },
+  "carModelId": {
+    "$oid": "680fe5998d6cab30b92e6611"
+  },
+  "userId": "680a78465a13c1588e4416fe",
+  "mileage": 78000,
+  "initialMileage": 75000,
+  "updatedMileageAt": {
+    "$date": "2025-04-10T11:20:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-01-20T09:30:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-10T11:25:00.000Z"
+  },
+  "carCreatedAt": {
+    "$date": "2019-03-14T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680a79445a13c1588e44170e"
+  },
+  "carBrandId": {
+    "$oid": "680fe6d38d6cab30b92e6612"
+  },
+  "carModelId": {
+    "$oid": "680fe6d68d6cab30b92e6613"
+  },
+  "userId": "680a78465a13c1588e4416ff",
+  "mileage": 32000,
+  "initialMileage": 25000,
+  "updatedMileageAt": {
+    "$date": "2025-03-05T08:10:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-02-01T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T08:15:00.000Z"
+  },
+  "carCreatedAt": {
+    "$date": "2021-06-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680a79445a13c1588e44170f"
+  },
+  "carBrandId": {
+    "$oid": "680fe6dc8d6cab30b92e6614"
+  },
+  "carModelId": {
+    "$oid": "680fe6e08d6cab30b92e6615"
+  },
+  "userId": "680a78465a13c1588e441700",
+  "mileage": 150000,
+  "initialMileage": 147000,
+  "updatedMileageAt": {
+    "$date": "2025-04-18T14:40:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-03-15T11:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-18T14:50:00.000Z"
+  },
+  "carCreatedAt": {
+    "$date": "2016-11-10T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "680a79445a13c1588e441710"
+  },
+  "carBrandId": {
+    "$oid": "680fe6e88d6cab30b92e6616"
+  },
+  "carModelId": {
+    "$oid": "680fe6ea8d6cab30b92e6617"
+  },
+  "userId": "680a78465a13c1588e441701",
+  "mileage": 9500,
+  "initialMileage": 5000,
+  "updatedMileageAt": {
+    "$date": "2025-04-01T10:00:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2025-03-10T13:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-01T10:05:00.000Z"
+  },
+  "carCreatedAt": {
+    "$date": "2024-12-01T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681df30473612bb35c86a5b0"
+  },
+  "userId": {
+    "$oid": "680a73cea455ca61bc242976"
+  },
+  "carBrandId": {
+    "$oid": "680a79445a13c1588e44170d"
+  },
+  "carModelId": {
+    "$oid": "680babc45a13c1588e441800"
+  },
+  "mileage": 120,
+  "color": "black",
+  "year": 2020,
+  "createdAt": {
+    "$date": "2025-01-01T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681df30473612bb35c86a5b1"
+  },
+  "userId": {
+    "$oid": "680a78465a13c1588e4416fe"
+  },
+  "carBrandId": {
+    "$oid": "680a79445a13c1588e44170e"
+  },
+  "carModelId": {
+    "$oid": "680babc45a13c1588e441801"
+  },
+  "mileage": 90,
+  "color": "white",
+  "year": 2022,
+  "createdAt": {
+    "$date": "2025-01-05T12:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681df30473612bb35c86a5b2"
+  },
+  "userId": {
+    "$oid": "680a78465a13c1588e4416ff"
+  },
+  "carBrandId": {
+    "$oid": "680a79445a13c1588e441710"
+  },
+  "carModelId": {
+    "$oid": "680babc45a13c1588e441802"
+  },
+  "mileage": 150,
+  "color": "red",
+  "year": 2021,
+  "createdAt": {
+    "$date": "2025-01-10T14:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T14:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681df30473612bb35c86a5b3"
+  },
+  "userId": {
+    "$oid": "680a78465a13c1588e4416fe"
+  },
+  "carBrandId": {
+    "$oid": "680a79445a13c1588e44170c"
+  },
+  "carModelId": {
+    "$oid": "680babc45a13c1588e441803"
+  },
+  "mileage": 80,
+  "color": "blue",
+  "year": 2019,
+  "createdAt": {
+    "$date": "2025-01-15T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681df30473612bb35c86a5b4"
+  },
+  "userId": {
+    "$oid": "680a78465a13c1588e441701"
+  },
+  "carBrandId": {
+    "$oid": "680a79445a13c1588e44170d"
+  },
+  "carModelId": {
+    "$oid": "680babc45a13c1588e441804"
+  },
+  "mileage": 105,
+  "color": "silver",
+  "year": 2020,
+  "createdAt": {
+    "$date": "2025-01-20T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681df30473612bb35c86a5b5"
+  },
+  "userId": {
+    "$oid": "680a78465a13c1588e4416ff"
+  },
+  "carBrandId": {
+    "$oid": "680a79445a13c1588e44170d"
+  },
+  "carModelId": {
+    "$oid": "680babc45a13c1588e441805"
+  },
+  "mileage": 200,
+  "color": "grey",
+  "year": 2021,
+  "createdAt": {
+    "$date": "2025-02-01T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681df30473612bb35c86a5b6"
+  },
+  "userId": {
+    "$oid": "680a78465a13c1588e441701"
+  },
+  "carBrandId": {
+    "$oid": "680a79445a13c1588e44170f"
+  },
+  "carModelId": {
+    "$oid": "680babc45a13c1588e441806"
+  },
+  "mileage": 75,
+  "color": "green",
+  "year": 2018,
+  "createdAt": {
+    "$date": "2025-02-10T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681df30473612bb35c86a5b7"
+  },
+  "userId": {
+    "$oid": "680a78465a13c1588e4416fe"
+  },
+  "carBrandId": {
+    "$oid": "680a79445a13c1588e44170c"
+  },
+  "carModelId": {
+    "$oid": "680babc45a13c1588e441807"
+  },
+  "mileage": 110,
+  "color": "white",
+  "year": 2022,
+  "createdAt": {
+    "$date": "2025-02-15T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681df30473612bb35c86a5b8"
+  },
+  "userId": {
+    "$oid": "680a78465a13c1588e441700"
+  },
+  "carBrandId": {
+    "$oid": "680a79445a13c1588e44170e"
+  },
+  "carModelId": {
+    "$oid": "680babc45a13c1588e441808"
+  },
+  "mileage": 130,
+  "color": "black",
+  "year": 2021,
+  "createdAt": {
+    "$date": "2025-02-20T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681df30473612bb35c86a5b9"
+  },
+  "userId": {
+    "$oid": "680a78465a13c1588e441700"
+  },
+  "carBrandId": {
+    "$oid": "680a79445a13c1588e44170e"
+  },
+  "carModelId": {
+    "$oid": "680babc45a13c1588e441809"
+  },
+  "mileage": 140,
+  "color": "grey",
+  "year": 2020,
+  "createdAt": {
+    "$date": "2025-02-25T10:00:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T10:00:00.000Z"
+  }
+}]

@@ -1,0 +1,136 @@
+{
+  "info": {
+    "name": "MongoDB CRUD Collection",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Create UserProfile",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"name\": \"TestUser\",\n  \"email\": \"test@example.com\",\n  \"country\": \"Ukraine\"\n}"
+        },
+        "url": {
+          "raw": "{{base_url}}/UserProfile",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "UserProfile"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Get All UserProfiles",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "{{base_url}}/UserProfile",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "UserProfile"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Update UserProfile",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"name\": \"UpdatedUser\"\n}"
+        },
+        "url": {
+          "raw": "{{base_url}}/UserProfile/:id",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "UserProfile",
+            ":id"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Delete UserProfile",
+      "request": {
+        "method": "DELETE",
+        "url": {
+          "raw": "{{base_url}}/UserProfile/:id",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "UserProfile",
+            ":id"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Filter UserProfiles by country",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "{{base_url}}/UserProfile/search/query?country=Ukraine",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "UserProfile",
+            "search",
+            "query"
+          ],
+          "query": [
+            {
+              "key": "country",
+              "value": "Ukraine"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "name": "Filter UserProfiles with name like 'qw'",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "{{base_url}}/UserProfile/search/query?name=qw",
+          "host": [
+            "{{base_url}}"
+          ],
+          "path": [
+            "UserProfile",
+            "search",
+            "query"
+          ],
+          "query": [
+            {
+              "key": "name",
+              "value": "qw"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
